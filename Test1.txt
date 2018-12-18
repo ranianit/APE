@@ -1,5 +1,3 @@
 Welcome to GIT world
 
 This is second line.
-
-This is thired line APE
